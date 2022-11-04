@@ -1,0 +1,65 @@
+export const products = [
+  {
+    'id': 1,
+    'name': 'LAPTOP HP 14CF2513LA INTEL CORE I3 10110U 4GB RAM 128GB SSD 14',
+    'price': 'S/. 1499.99',
+    'trademark': 'HP',
+    'img': './assets/laptop-1.jpg',
+  },
+  {
+    'id': 2,
+    'name': 'LAPTOP ASUS X515 X515JA-EJ3618W INTEL CORE I5 1035G1 8GB RAM 256GB SSD 15.6',
+    'price': 'S/. 2000.00',
+    'trademark': 'Asus',
+    'img': './assets/laptop-2.jpg',
+  },
+  {
+    'id': 3,
+    'name': 'LAPTOP GAMER ASUS DEAL FX517ZC-HN005W I5 12VA 8GB RAM 512GB SSD  15.6',
+    'price': 'S/ 4699.99',
+    'trademark': 'Asus',
+    'img': './assets/laptop-3.jpg',
+  },
+  {
+    'id': 4,
+    'name': 'LLAPTOP ACER NITRO 5 INTEL CORE I5 8GB RAM 512GB SSD 15.6',
+    'price': 'S/. 3799.00',
+    'trademark': 'Acer',
+    'img': './assets/laptop-4.jpg',
+  },
+  {
+    'id': 5,
+    'name': 'LAPTOP ASUS M1502IAEJ025W AMD RYZEN 5 4600H 8GB RAM 512GB SSD 15.6',
+    'price': 'S/. 2799.99',
+    'trademark': 'Asus',
+    'img': './assets/laptop-5.jpg',
+  },
+  {
+    'id': 6,
+    'name': 'LAPTOP MACBOOK AIR 13.3" APPLE M1 256GB 8GB ORO ROSA',
+    'price': 'S/. 5799.99',
+    'trademark': 'Apple',
+    'img': './assets/laptop-6.jpg',
+  },
+  {
+    'id': 7,
+    'name': 'LAPTOP ASUS ZENBOOK 13 OLED AMD RYZEN 5 8GB RAM 512GB SSD 13',
+    'price': 'S/. 3199.99',
+    'trademark': 'Asus',
+    'img': './assets/laptop-7.jpg',
+  },
+  {
+    'id': 8,
+    'name': 'LAPTOP LENOVO IDEAPAD 1I INTEL CELERON 4GB RAM 128GB SSD 14',
+    'price': 'S/. 1399.99',
+    'trademark': 'Lenovo',
+    'img': './assets/laptop-8.jpg',
+  },
+  {
+    'id': 9,
+    'name': 'LAPTOP HP VICTUS 16D0505LA INTEL CORE I5 11400H 16GB RAM 512GB SSD 16.1',
+    'price': 'S/. 4899.99',
+    'trademark': 'HP',
+    'img': './assets/laptop-9.jpg',
+  }
+];
